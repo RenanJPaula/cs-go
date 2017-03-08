@@ -1,4 +1,4 @@
-# Configuração
+# Configurações
 
 ## CFG
 - Copiar a [cfg](./cfg/renan-config.cfg);
